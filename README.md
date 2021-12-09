@@ -2,6 +2,6 @@
 
 ماكنت الكولا و القهوه و الشوكلاطه
 
-تحتاج : 
+# needs 
 
-qb-target
+qb-target : https://github.com/BerkieBb/qb-target
