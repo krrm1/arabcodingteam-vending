@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'dacca'
-description ''
+author 'arabcodingteam'
+description 'arabcodingteam'
 version '1.0.0'
 
 
