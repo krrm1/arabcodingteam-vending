@@ -1,4 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject()
+local QBCore = exports['arabcodingteam-core']:GetCoreObject()
 ------------------------------------------------------------
 ------------------------------------------------------------
 
@@ -39,7 +39,7 @@ local prop = {
 	"prop_vend_soda_02",
 	"prop_vend_water_01"
 }
-exports['qb-target']:AddTargetModel(prop, {
+exports['arabcodingteam-target']:AddTargetModel(prop, {
 	options = {
 		{
 			type = "client",
@@ -56,7 +56,7 @@ local prop = {
 	"prop_vend_coffe_01",
 
 }
-exports['qb-target']:AddTargetModel(prop, {
+exports['arabcodingteam-target']:AddTargetModel(prop, {
 	options = {
 		{
 			type = "client",
@@ -74,7 +74,7 @@ local prop = {
 	"prop_vend_snak_01_tu"
 
 }
-exports['qb-target']:AddTargetModel(prop, {
+exports['arabcodingteam-target']:AddTargetModel(prop, {
 	options = {
 		{
 			type = "client",
