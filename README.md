@@ -1,4 +1,4 @@
-# qb-vending
+# arabcodingteam-vending
 
 ماكنت الكولا و القهوه و الشوكلاطه
 
